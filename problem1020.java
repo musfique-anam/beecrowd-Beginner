@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class p1020{
+public class problem1020 {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         int given=scan.nextInt();
