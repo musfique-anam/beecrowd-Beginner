@@ -9,6 +9,6 @@ public class problem1006 {
         C=scan.nextDouble();
         M=((A*2)+(B*3)+(C*5))/10;
         System.out.printf("MEDIA = %.1f",M);
-        System.out.println();  
-    }    
+        System.out.println();
+    }
 }

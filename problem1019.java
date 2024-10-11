@@ -12,5 +12,6 @@ public class problem1019 {
         int minutes=pminutes-(hours*60);
 
         System.out.println(hours+":"+minutes+":"+seconds);
-    }    
+    }
+        
 }
