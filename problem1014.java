@@ -1,4 +1,3 @@
-package beecrowdBeginner;
 import java.util.Scanner;
 public class problem1014 {
     public static void main(String[] args) {
