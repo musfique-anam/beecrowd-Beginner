@@ -16,22 +16,21 @@ public class problem1035 {
     }
 
     public static void main(String[] args) throws IOException {
-        Scanner scan = new Scanner(System.in);
-        int A, B, C, D, result;
-        A = scan.nextInt();
-        B = scan.nextInt();
-        C = scan.nextInt();
-        D = scan.nextInt();
-
-        problem1035 m = new problem1035();
-        result = m.selection(A, B, C, D);
-
-        if (result == -1) {
-            System.out.println("Valores aceitos");
-        } else {
-            System.out.println("Valores nao aceitos");
+        try(Scanner scan = new Scanner(System.in)){
+            int A, B, C, D, result;
+            A = scan.nextInt();
+            B = scan.nextInt();
+            C = scan.nextInt();
+            D = scan.nextInt();
+    
+            problem1035 m = new problem1035();
+            result = m.selection(A, B, C, D);
+    
+            if (result == -1) {
+                System.out.println("Valores aceitos");
+            } else {
+                System.out.println("Valores nao aceitos");
+            }
         }
-
     }
-
 }
