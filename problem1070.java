@@ -1,6 +1,6 @@
 import java.io.IOException;
 import java.util.Scanner;
-public class Main {
+public class problem1070 {
  
     public static void main(String[] args) throws IOException {
         try(Scanner scan=new Scanner(System.in)){
