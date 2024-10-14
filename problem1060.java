@@ -1,3 +1,4 @@
+//Beginner Problem - 1060 : Positive Numbers
 import java.io.IOException;
 import java.util.Scanner;
 public class problem1060 {
@@ -13,8 +14,7 @@ public class problem1060 {
                     ++count;
                 }
             }
-            System.out.println(count);
+            System.out.println(count+"valores positivos");
         }
     }
- 
 }
