@@ -1,4 +1,4 @@
-//Beginner Problem - 1114 : Fixed Password
+//Problem - 1114 : Fixed Password
 import java.io.IOException;
 import java.util.Scanner;
 public class problem1114 {

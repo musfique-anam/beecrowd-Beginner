@@ -1,4 +1,4 @@
-//Beginner Problem - 1044 : Multiples
+//Problem - 1044 : Multiples
 import java.io.IOException;
 import java.util.Scanner;
 public class problem1044 {

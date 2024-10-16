@@ -1,4 +1,4 @@
-//Beginner Problem - 1050 : DDD
+//Problem - 1050 : DDD
 import java.io.IOException;
 import java.util.Scanner;
 public class problem1050 {

@@ -1,4 +1,4 @@
-//Beginner Problem - 1060 : Positive Numbers
+//Problem - 1060 : Positive Numbers
 import java.io.IOException;
 import java.util.Scanner;
 public class problem1060 {

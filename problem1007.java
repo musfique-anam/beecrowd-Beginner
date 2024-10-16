@@ -1,4 +1,4 @@
-//Beginner Problem 1007 : Difference !
+//Problem 1007 : Difference !
 import java.io.IOException;
 import java.util.Scanner;
 public class problem1007 {

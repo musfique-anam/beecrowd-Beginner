@@ -1,4 +1,4 @@
-//Beginner Problem - 1073:Even Square
+//Problem - 1073:Even Square
 import java.io.IOException;
 import java.util.Scanner;
 public class problem1073 {

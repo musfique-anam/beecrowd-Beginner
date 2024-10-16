@@ -1,4 +1,4 @@
-//Beginner Problem - 1078 : Multiplication Table
+//Problem - 1078 : Multiplication Table
 import java.io.IOException;
 import java.util.Scanner;
 public class problem1078 {

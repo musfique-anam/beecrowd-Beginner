@@ -1,4 +1,4 @@
-//Beginner Problem-1037 : Interval
+//Problem-1037 : Interval
 import java.io.IOException;
 import java.util.Scanner;
 public class problem1037 {
