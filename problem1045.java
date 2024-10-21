@@ -23,7 +23,7 @@ public class problem1045 {
 
     public static void main(String[] args) throws IOException {
         try(Scanner scan =new Scanner(System.in)){
-            double A2,B2,C2,A,B,C;
+            double A,B,C;
             double array[]=new double[3];
             for(int i=0;i<3;i++){
                 array[i]=scan.nextDouble();
