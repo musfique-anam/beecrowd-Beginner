@@ -79,7 +79,7 @@ public class problem1049 {
     private static final String m4m1="onivoro";
     private static final String m4m2="herbivoro";
     private static final String m5m1="hematofago";
-    private static final String m5m2="harbivoro";
+    private static final String m5m2="herbivoro";
     private static final String m6m1="hematofago";
     private static final String m6m2="onivoro";
     private static final String m3m1Result="aguia";
